@@ -9,6 +9,7 @@ As a lifelong knowledge seeker, I’m dedicated to using my skills to solve (*co
 - [Modeling and Simulating Complex Chaotic Systems](https://github.com/Younes-Toumi/Youtube-Channel/tree/main/Simulation%20with%20Python)
 - [Test Personal Project n°2](https://github.com/Younes-Toumi/Personal-Projects)
 - [Test Personal Project n°3](https://github.com/Younes-Toumi/Youtube-Channel/tree/main/Notebook%20Courses/Differential%20Equations)
+- [Reliability Analysis of a Suspension Bridge]
 
 ## Experience
 *work in progress*
