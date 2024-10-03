@@ -4,16 +4,17 @@ I’m **Younes**, a **Mechanical Engineer** pursuing an M.Sc. in **Computational
 As a lifelong knowledge seeker, I’m dedicated to using my skills to solve (*complex*) problems and contribute to a better world. 🌍
 
 ## Personal Projects
+*work in progress*
+
 - [Test Personal Project n°1](https://github.com/Younes-Toumi/Youtube-Channel/tree/main/Simulation%20with%20Python)
 - [Test Personal Project n°2](https://github.com/Younes-Toumi/Personal-Projects)
 - [Test Personal Project n°3](https://github.com/Younes-Toumi/Youtube-Channel/tree/main/Notebook%20Courses/Differential%20Equations)
 
 ## Experience
-Text 2
+*work in progress*
 
 ## Tech skills
-Text 3
-
+*work in progress*
 
 ## Contact Info
 
