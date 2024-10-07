@@ -18,11 +18,10 @@ As a lifelong knowledge seeker, I’m dedicated to using my skills to solve (*co
 *work in progress*
 
 ## Contact Info
-<img align="left" alt="Younes A. Toumi | YouTube" width="22px" src="./assets/Youtube-Logo.png" />
 
-[<img align="left" alt="Younes A. Toumi | YouTube" width="22px" src="./assets/Youtube-Logo.png" />][youtube]
-[<img align="left" alt="Younes A. Toumi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Younes A. Toumi | Udemy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/udemy.svg" />][udemy]
+[<img align="left" alt="Younes A. Toumi | YouTube" width="32px" src="./assets/Youtube-Logo.png" />][youtube]
+[<img align="left" alt="Younes A. Toumi | LinkedIn" width="25px" src="./assets/LinkedIn-Logo.png" />][linkedin]
+[<img align="left" alt="Younes A. Toumi | Udemy" width="57px" src="./assets/Udemy-Logo-Revisited.png" />][udemy]
 
 [youtube]: https://www.youtube.com/@YounesLab
 [udemy]: https://www.udemy.com/user/younes-abdeldjalil-toumi/
