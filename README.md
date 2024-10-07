@@ -1,3 +1,7 @@
+------------------------------
+# 🛠️🚧 *Currently building my Git-Hub Portfolio* 🚧🛠️
+
+-------------------------------
 # Hi there 👋
 I’m **Younes**, a **Mechanical Engineer** pursuing an M.Sc. in **Computational Engineering** at *Leibniz University Hannover*. 💻 With a passion for merging programming and engineering, I specialize in simulation, modeling, and numerical computation.
 
