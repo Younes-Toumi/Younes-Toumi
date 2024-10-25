@@ -11,7 +11,7 @@ As a lifelong knowledge seeker, I’m dedicated to using my skills to solve (*co
 *work in progress*
 
 - Modeling and Simulating Complex Chaotic Systems  ([Corresponding Repo](https://github.com/Younes-Toumi/Modeling-and-Simulating-Complex-Chaotic-Systems))
-- [Reliability Analysis of a Suspension Bridge]
+- Suspension-Bridge-Modeling-and-Stochastic-Analysis ([Correspoding Repo](https://github.com/Younes-Toumi/Suspension-Bridge-Modeling-and-Stochastic-Analysis)) [🚧 **Under Construction** 🚧] 
 
 ## Experience
 *work in progress*
