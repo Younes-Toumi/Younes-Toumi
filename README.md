@@ -3,11 +3,12 @@ I’m **Younes**, a **Mechanical Engineer** pursuing an M.Sc. in **Computational
 
 As a lifelong knowledge seeker, I’m dedicated to using my skills to solve (*complex*) problems and contribute to a better world. 🌍
 
-## Personal Projects
+## Repositories
 *work in progress*
 
 - Modeling and Simulating Complex Chaotic Systems  ([Corresponding Repo](https://github.com/Younes-Toumi/Modeling-and-Simulating-Complex-Chaotic-Systems))
 - Suspension-Bridge-Modeling-and-Stochastic-Analysis ([Correspoding Repo](https://github.com/Younes-Toumi/Suspension-Bridge-Modeling-and-Stochastic-Analysis)) [🚧 **Under Construction** 🚧] 
+- Python Tutorial for Computational Engineering I did on Youtube! ([Corresponding Repo](https://github.com/Younes-Toumi/Youtube-Channel))
 
 ## Contact Info
 
