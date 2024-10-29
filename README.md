@@ -1,7 +1,3 @@
-------------------------------
-# 🛠️🚧 *Currently building my Git-Hub Portfolio* 🚧🛠️
-
--------------------------------
 # Hi there 👋
 I’m **Younes**, a **Mechanical Engineer** pursuing an M.Sc. in **Computational Engineering** at *Leibniz University Hannover*. 💻 With a passion for merging programming and engineering, I specialize in simulation, modeling, and numerical computation.
 
@@ -12,12 +8,6 @@ As a lifelong knowledge seeker, I’m dedicated to using my skills to solve (*co
 
 - Modeling and Simulating Complex Chaotic Systems  ([Corresponding Repo](https://github.com/Younes-Toumi/Modeling-and-Simulating-Complex-Chaotic-Systems))
 - Suspension-Bridge-Modeling-and-Stochastic-Analysis ([Correspoding Repo](https://github.com/Younes-Toumi/Suspension-Bridge-Modeling-and-Stochastic-Analysis)) [🚧 **Under Construction** 🚧] 
-
-## Experience
-*work in progress*
-
-## Tech skills
-*work in progress*
 
 ## Contact Info
 
