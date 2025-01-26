@@ -7,8 +7,10 @@ As a lifelong knowledge seeker, I’m dedicated to using my skills to solve (*co
 *work in progress*
 
 - Modeling and Simulating Complex Chaotic Systems  ([Corresponding Repo](https://github.com/Younes-Toumi/Modeling-and-Simulating-Complex-Chaotic-Systems))
-- Suspension-Bridge-Modeling-and-Stochastic-Analysis ([Correspoding Repo](https://github.com/Younes-Toumi/Suspension-Bridge-Modeling-and-Stochastic-Analysis)) [🚧 **Under Construction** 🚧] 
 - Python Tutorial for Computational Engineering I did on Youtube! ([Corresponding Repo](https://github.com/Younes-Toumi/Youtube-Channel))
+
+- Suspension-Bridge-Modeling-and-Stochastic-Analysis ([Correspoding Repo](https://github.com/Younes-Toumi/Suspension-Bridge-Modeling-and-Stochastic-Analysis)) [🚧 **Under Construction** 🚧]
+- Network Analysis of High-Speed Rail ([Correspoding Repo](https://github.com/Younes-Toumi/\Network-Analysis-of-High-Speed-Rail)) [🚧 **Under Construction** 🚧] 
 
 ## Contact Info
 
