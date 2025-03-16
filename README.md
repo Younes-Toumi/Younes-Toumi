@@ -9,7 +9,7 @@ As a lifelong knowledge seeker, I’m dedicated to using my skills to solve (*co
 - Modeling and Simulating Complex Chaotic Systems  ([Corresponding Repo](https://github.com/Younes-Toumi/Modeling-and-Simulating-Complex-Chaotic-Systems))
 - Python Tutorial for Computational Engineering I did on Youtube! ([Corresponding Repo](https://github.com/Younes-Toumi/Youtube-Channel))
 
-- My Computational Engineering Projects ([Correspoding Repo](https://github.com/Younes-Toumi/My-Computational-Engineering-Projects)) [🚧 **Under Construction** 🚧]
+- Concrete Crack Detection using Convolutional Neural Networks ([Correspoding Repo](https://github.com/Younes-Toumi/concrete-crack-detection)) [🚧 **Under Construction** 🚧]
 
 ## Contact Info
 
