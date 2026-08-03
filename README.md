@@ -19,4 +19,4 @@ As a lifelong knowledge seeker, I’m dedicated to using my skills to solve (*co
 
 [youtube]: https://www.youtube.com/@YounesLab
 [udemy]: https://www.udemy.com/user/younes-abdeldjalil-toumi/
-[linkedin]: https://www.linkedin.com/in/younes-abdeldjalil-toumi-334b29207/
+[linkedin]: https://www.linkedin.com/in/younes-a-toumi/
