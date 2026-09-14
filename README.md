@@ -1,15 +1,12 @@
 # Hi there 👋
-I’m **Younes**, a **Mechanical Engineer** pursuing a M.Sc. in **Computational Engineering** at *Leibniz University Hannover*. 💻 With a passion for merging programming and engineering, I specialize in simulation, modeling, and numerical computation (and machine learning!).
-
-As a lifelong knowledge seeker, I’m dedicated to using my skills to solve (*complex*) problems and contribute to a better world. 🌍
+I’m **Younes**, a **Computational Engineer** 💻 I specialize in numerical modeling, and scientific computing (on top of machine learning!). As a lifelong knowledge seeker, I’m dedicated to using my skills to solve (*complex*) problems and contribute to a better world. 🌍
 
 ## Repositories
-*work in progress*
 
 - Modeling and Simulating Complex Chaotic Systems  ([Corresponding Repo](https://github.com/Younes-Toumi/Modeling-and-Simulating-Complex-Chaotic-Systems))
 - Python Tutorial for Computational Engineering I did on Youtube! ([Corresponding Repo](https://github.com/Younes-Toumi/Youtube-Channel))
 
-- Concrete Crack Detection using Convolutional Neural Networks ([Correspoding Repo](https://github.com/Younes-Toumi/concrete-crack-detection)) [🚧 **Under Construction** 🚧]
+- Concrete Crack Detection using Convolutional Neural Networks ([Correspoding Repo](https://github.com/Younes-Toumi/concrete-crack-detection))
 
 ## Contact Info
 
