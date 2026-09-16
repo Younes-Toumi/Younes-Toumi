@@ -10,6 +10,14 @@
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/Younes-Toumi/younes-lab">
+    [or see corresponding repo]
+  </a>
+</p>
+
+
 I’m **Younes**, a **Computational Engineer** 💻 I specialize in numerical modeling, and scientific computing (on top of machine learning!). As a lifelong knowledge seeker, I’m dedicated to using my skills to solve (*complex*) problems and contribute to a better world! 🌍
 
 ## Repositories
