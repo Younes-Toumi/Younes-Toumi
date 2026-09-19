@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="assets/demo.gif" width="700">
+  <img src="assets/demo_2.gif" width="100%">
 </p>
 
 <p align="center">
