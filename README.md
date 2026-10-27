@@ -42,8 +42,5 @@ I’m **Younes**, a **Computational Engineer** 💻 I specialize in numerical mo
 
 [<img align="left" alt="Younes A. Toumi | LinkedIn" width="25px" src="./assets/LinkedIn-Logo.png" />][linkedin]
 
-[<img align="left" alt="Younes A. Toumi | Udemy" width="57px" src="./assets/Udemy-Logo-Revisited.png" />][udemy]
-
 [youtube]: https://www.youtube.com/@YounesLab
-[udemy]: https://www.udemy.com/user/younes-abdeldjalil-toumi/
 [linkedin]: https://www.linkedin.com/in/younes-a-toumi/
