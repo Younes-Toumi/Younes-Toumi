@@ -1,9 +1,9 @@
 # Hi there 👋
 
-I’m **Younes**, a **Computational Engineer** 💻 I specialize in numerical modeling, and scientific computing (on top of machine learning!). As a lifelong knowledge seeker, I’m dedicated to using my skills to solve (*complex*) problems and contribute to a better world! 🌍
+I’m **Younes**, a **hybrid Engineer/Scientist** 💻 I specialize in numerical modeling, and scientific computing (on top of machine learning!). As a lifelong knowledge seeker, I’m dedicated to using my skills to solve (*complex*) problems and contribute to a better world! 🌍
 
 
-# Currently Working on 🛠️
+# Highlights 🛠️
 ### atomfetch: A small 3D-inspired atom simulation for the terminal!
 
 <p align="center">
