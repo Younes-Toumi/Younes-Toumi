@@ -1,40 +1,9 @@
-# Hi there 👋
-
-I’m **Younes**, a **hybrid Engineer/Scientist** 💻 I specialize in numerical modeling, and scientific computing (on top of machine learning!). As a lifelong knowledge seeker, I’m dedicated to using my skills to solve (*complex*) problems and contribute to a better world! 🌍
-
-
-# Highlights 🛠️
-### atomfetch: A small 3D-inspired atom simulation for the terminal!
-
-<p align="center">
-  <img src="assets/demo_atomfetch.gif" width="100%">
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/Younes-Toumi/atomfetch">
-    [see corresponding repo]
-  </a>
-</p>
-
-
-### A live particle collision simulation
 <p align="center">
   <img src="assets/demo_particle_sim.gif" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://younes-toumi.github.io/younes-lab/">
-    PLAY WITH THE SIMULATION →
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/Younes-Toumi/younes-lab">
-    [or see corresponding repo]
-  </a>
-</p>
+# Hello, Hallo, Salut, Salam 👋
+I’m **Younes**, a **hybrid Engineer/Scientist** 💻 I specialize in scientific computing!
 
 # Contact Info
 
