@@ -18,5 +18,3 @@ I’m **Younes**, a **hybrid Engineer/Scientist** 💻 I enjoy experimenting in 
 [buymeacoffee]: https://buymeacoffee.com/youneslab
 
 ---
-
-[Profile view counter](https://komarev.com/ghpvc/?username=Younes-Toumi)
