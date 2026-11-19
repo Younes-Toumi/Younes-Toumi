@@ -2,8 +2,8 @@
   <img src="assets/demo_particle_sim.gif" width="100%">
 </p>
 
-# Hello, Hallo, Salut, Salam 👋
-I’m **Younes**, a **hybrid Engineer/Scientist** 💻 I specialize in scientific computing!
+# Hello 👨‍🔬
+I’m **Younes**, a **hybrid Engineer/Scientist** 💻 I enjoy experimenting in scientific computing!
 
 # Contact Info
 
