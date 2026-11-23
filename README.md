@@ -8,7 +8,7 @@ I’m **Younes**, a **hybrid Engineer/Scientist** 💻 I enjoy experimenting in 
 <h1>Current Projects 🛠️ </h1>
 
 <h2>
-  1.
+1.
   <a href="https://github.com/Younes-Toumi/SurrogateModelling.jl">
     <img
       src="assets/julia-package/surrogate_modelling_heading.png"
@@ -22,14 +22,14 @@ A Julia-Package for surrogate modelling and propagation of imprecise probabiliti
 
 ![SurrogateModelling.jl](assets/julia-package/propagation_pipeline.png)
 
-**Tech:** *Julia, Surrogate Modelling, Uncertainty Quantification, Bayesian Optimization, Augmented Space, Adaptive-Learning.*
+**Keywords:** *Julia, Surrogate Modelling, Uncertainty Quantification, Bayesian Optimization, Augmented Space, Adaptive-Learning.*
 
 > [> **View Repository**](https://github.com/Younes-Toumi/SurrogateModelling.jl)
 > 
 
 <h2>
-  1.
-  <a href="https://github.com/Younes-Toumi/SurrogateModelling.jl">
+2.
+  <a href="https://github.com/Younes-Toumi/chaotic-dynamics">
     <img
       src="assets/chaotic-dynamics/chaotic_dynamics_heading.png"
       alt="SurrogateModelling.jl"
@@ -38,13 +38,12 @@ A Julia-Package for surrogate modelling and propagation of imprecise probabiliti
     />
   </a>
 </h2>
-A Julia-Package for surrogate modelling and propagation of imprecise probabilities. Pipeline:
+A repo for the modelling and simulation of chaotic systems.
 
-![SurrogateModelling.jl](assets/julia-package/propagation_pipeline.png)
 
-**Tech:** *Julia, Surrogate Modelling, Uncertainty Quantification, Bayesian Optimization, Augmented Space, Adaptive-Learning.*
+**Keywords:** *Python, Scipy, Chaos Theory, N-Body-Problem, Lorenz-Attractor, Multi-Pendulum*
 
-> [> **View Repository**](https://github.com/Younes-Toumi/SurrogateModelling.jl)
+> [> **View Repository**](https://github.com/Younes-Toumi/chaotic-dynamics)
 > 
 
 # Contact Info
