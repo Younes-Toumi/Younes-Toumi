@@ -5,10 +5,16 @@
 # Hello 👨‍🔬
 I’m **Younes**, a **hybrid Engineer/Scientist** 💻 I enjoy experimenting in scientific computing!
 
-# Current Project ~ <img align="center" alt="SurrogateModelling.jl" width="250px" src="assets/julia-package/surrogate_modelling.png" />
+# Current Projects ~ 
+## 1. [<img align="center" alt="SurrogateModelling.jl" width="250px" src="assets/julia-package/surrogate_modelling.png" />](https://github.com/Younes-Toumi/SurrogateModelling.jl)
 
-A Julia-Package for surrogate modelling and propagation of imprecise probabilities.
+A Julia-Package for surrogate modelling and propagation of imprecise probabilities. Pipeline:
 ![SurrogateModelling.jl](assets/julia-package/propagation_pipeline.png)
+
+**Tech:** *Julia, Surrogate Modelling, Uncertainty Quantification, Bayesian Optimization, Augmented Space, Adaptive-Learning.*
+
+> [> **View Repository**](https://github.com/Younes-Toumi/SurrogateModelling.jl)
+> 
 
 # Contact Info
 
@@ -22,4 +28,3 @@ A Julia-Package for surrogate modelling and propagation of imprecise probabiliti
 [linkedin]: https://www.linkedin.com/in/younes-a-toumi/
 [buymeacoffee]: https://buymeacoffee.com/youneslab
 
----
