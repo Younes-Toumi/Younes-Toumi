@@ -14,7 +14,7 @@ I’m **Younes**, a **hybrid Engineer/Scientist** 💻 I enjoy experimenting in 
       src="assets/julia-package/surrogate_modelling.png"
       alt="SurrogateModelling.jl"
       width="250"
-      align="center"
+      align="top"
     />
   </a>
 </h2>
