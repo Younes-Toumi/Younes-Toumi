@@ -5,9 +5,19 @@
 # Hello 👨‍🔬
 I’m **Younes**, a **hybrid Engineer/Scientist** 💻 I enjoy experimenting in scientific computing!
 
-# Current Projects ~ 
-## 1. [<img align="center" alt="SurrogateModelling.jl" width="250px" src="assets/julia-package/surrogate_modelling.png" />](https://github.com/Younes-Toumi/SurrogateModelling.jl)
+<h1>Current Projects 🛠️ </h1>
 
+<h2>
+  1.
+  <a href="https://github.com/Younes-Toumi/SurrogateModelling.jl">
+    <img
+      src="assets/julia-package/surrogate_modelling.png"
+      alt="SurrogateModelling.jl"
+      width="250"
+      align="center"
+    />
+  </a>
+</h2>
 A Julia-Package for surrogate modelling and propagation of imprecise probabilities. Pipeline:
 ![SurrogateModelling.jl](assets/julia-package/propagation_pipeline.png)
 
