@@ -19,6 +19,7 @@ I’m **Younes**, a **hybrid Engineer/Scientist** 💻 I enjoy experimenting in 
   </a>
 </h2>
 A Julia-Package for surrogate modelling and propagation of imprecise probabilities. Pipeline:
+
 ![SurrogateModelling.jl](assets/julia-package/propagation_pipeline.png)
 
 **Tech:** *Julia, Surrogate Modelling, Uncertainty Quantification, Bayesian Optimization, Augmented Space, Adaptive-Learning.*
