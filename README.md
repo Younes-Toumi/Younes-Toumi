@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/demo_particle_sim.gif" width="100%">
-</p>
-
 # Hello 👨‍🔬
 I’m **Younes**, a **hybrid Engineer/Scientist** 💻 I enjoy experimenting in scientific computing!
 
@@ -57,4 +53,9 @@ A repo for the modelling and simulation of chaotic systems.
 [youtube]: https://www.youtube.com/@YounesLab
 [linkedin]: https://www.linkedin.com/in/younes-a-toumi/
 [buymeacoffee]: https://buymeacoffee.com/youneslab
+
+<p align="center">
+  <img src="assets/demo_particle_sim.gif" width="100%">
+</p>
+
 
